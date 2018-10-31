@@ -6,14 +6,7 @@
 
 from sklearn import tree
 
-
-# In[2]:
-
-
 D3 = tree.DecisionTreeClassifier()
-
-
-# In[3]:
 
 
 X = [
@@ -25,9 +18,6 @@ X = [
 ]
 
 
-# In[4]:
-
-
 Y = [
     'man',
     'woman',
@@ -37,38 +27,13 @@ Y = [
 ]
 
 
-# In[5]:
-
-
 D3 = D3.fit(X,Y)
-
-
-# In[6]:
 
 
 prediction = D3.predict ( [ [177 , 40 , 0.4 ] ])
 print( prediction )
 
 
-# In[7]:
-
-
-prediction = D3.predict ( [ [135 , 29 , 0.8] ])
-print( prediction )
-
-
-# In[8]:
-
-
-prediction = D3.predict ( [ [177 , 3 , 0 ] ])
-print( prediction )
-
-
-# In[9]:
-
-
-prediction = D3.predict ( [ [144 , 50 , 1 ] ])
-print( prediction )
 
 
 # In[10]:
