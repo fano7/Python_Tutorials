@@ -2,7 +2,7 @@
 
 
 [![Build Status](https://img.shields.io/badge/Python-%3D>3.0-blue.svg
-)](https://travis-ci.com/username/projectname)
+)]()
 
 
 
