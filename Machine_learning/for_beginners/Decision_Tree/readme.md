@@ -1,6 +1,6 @@
 # simple Decision Tree Classifier
 
-'''pyrhon
+'''python
 
 from sklearn import tree
 
