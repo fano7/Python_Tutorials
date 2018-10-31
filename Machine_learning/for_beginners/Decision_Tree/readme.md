@@ -1,8 +1,8 @@
 # simple Decision Tree Classifier
 
-/badge/dynamic/json.svg?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&colorB=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
 
-[![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname)
+[![Build Status](/badge/dynamic/json.svg?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&colorB=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
+)](https://travis-ci.com/username/projectname)
 
 
 
