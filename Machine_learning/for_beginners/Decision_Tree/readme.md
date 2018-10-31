@@ -1,4 +1,5 @@
-# simple Decision Tree Classifier
+# Simple Decision Tree Classifier
+## Using Sklearn 
 
 [![Build Status](https://img.shields.io/badge/Facebook%20page-%40Pythonation-DarkSlateBlue.svg
 )](https://web.facebook.com/pythonation)
