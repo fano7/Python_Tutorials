@@ -1,8 +1,12 @@
 # simple Decision Tree Classifier
 
 
-[![Build Status](https://img.shields.io/badge/Python-%3D>3.0-blue.svg
+[![Build Status](https://img.shields.io/pypi/pyversions/Django.svg
 )]()
+[![Build Status](https://img.shields.io/conda/pn/conda-forge/python.svg
+)]()
+[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)]()
+
 
 
 
