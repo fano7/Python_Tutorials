@@ -1,7 +1,7 @@
 # simple Decision Tree Classifier
 
 
-[![Build Status](/badge/dynamic/json.svg?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&colorB=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
+[![Build Status](https://img.shields.io/badge/Python-%3D>3.0-blue.svg
 )](https://travis-ci.com/username/projectname)
 
 
