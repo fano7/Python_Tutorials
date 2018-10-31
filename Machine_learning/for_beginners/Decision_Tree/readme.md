@@ -1,7 +1,7 @@
 # simple Decision Tree Classifier
 
-'''python
+```python
 
 from sklearn import tree
 
-'''
+```
