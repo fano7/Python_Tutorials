@@ -32,22 +32,3 @@ D3 = D3.fit(X,Y)
 
 prediction = D3.predict ( [ [177 , 40 , 0.4 ] ])
 print( prediction )
-
-
-
-
-# In[10]:
-
-
-prediction = D3.predict ( [ [130 , 15 , 0.9 ] ])
-print( prediction )
-
-
-# In[11]:
-
-
-prediction = D3.predict ( [ [130 , 4 , 0 ] ])
-print( prediction )
-
-
-```
