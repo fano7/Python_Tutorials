@@ -1,5 +1,9 @@
 # simple Decision Tree Classifier
 
+/badge/dynamic/json.svg?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&colorB=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
+
+
+
 ```python
 
 
